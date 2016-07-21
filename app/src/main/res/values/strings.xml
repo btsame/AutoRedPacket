@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoRedPacket</string>
+
+    <string name="service_desc">抢红包辅助功能</string>
+</resources>
